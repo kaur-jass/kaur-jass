@@ -1,16 +1,109 @@
-## Hi there 👋
+<h1 align="center">Jaspreet Kaur</h1>
 
-<!--
-**kaur-jass/kaur-jass** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+B.Tech Information Technology Student at NIT Jalandhar
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+Data Structures & Algorithms • Full Stack Development • AI/ML • Open Source
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## About Me
+
+I am a B.Tech Information Technology student at NIT Jalandhar with interests in software development, data structures and algorithms, artificial intelligence, and open source contributions.
+
+Currently focused on:
+- Data Structures & Algorithms
+- MERN Stack Development
+- Machine Learning with Python
+- Open Source Contributions
+
+---
+
+## Technical Skills
+
+### Languages
+C • C++ • Python • JavaScript
+
+### Frontend
+HTML • CSS • Tailwind CSS • React.js
+
+### Backend
+Node.js • Express.js
+
+### Databases
+MongoDB • MySQL
+
+### Tools
+Git • GitHub • REST APIs
+
+---
+
+## Experience
+
+### Technical Head, Cybersecurity Club
+Leading technical development initiatives, coordinating project implementation, and contributing to the club website and technical activities.
+
+### Contributor, GSSOC 2026
+Contributing to open source projects and collaborating with developers across the community.
+
+---
+
+## Selected Projects
+
+### Personal Portfolio Website
+Built a responsive portfolio website showcasing projects, skills, achievements, and experience.
+
+### Blog Website
+Developed a modern blogging platform featuring responsive design, dark mode, and interactive UI components.
+
+### Cybersecurity Club Website
+Collaborated on the development and maintenance of the club website using the MERN stack.
+
+### Expense Tracker
+Built a Python-based expense management application using Pandas and Matplotlib for data analysis and visualization.
+
+---
+
+## Achievements
+
+- 2nd Runner-Up, IEEE PEC × Pranjana AI Hackathon 2024
+- Top 8 Finalist among 10,000 GDGC members
+- Top 100 Teams among 45,000+ participants at IIT Delhi Youth Ideathon 2024
+- Punjab State Rank 5 in Class XII Board Examinations (98.6%)
+
+---
+
+## GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kaur-jass&show_icons=true&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaur-jass&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaur-jass&layout=compact&hide_border=true" />
+</p>
+
+---
+
+## Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kaur-jass" />
+</p>
+
+---
+
+## Connect
+
+Portfolio: https://jasssite.vercel.app
+
+LinkedIn: https://linkedin.com/in/jaspreet-kaur-09a077307
+
+Email: jaspreetk.it.24@nitj.ac.in
