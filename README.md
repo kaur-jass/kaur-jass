@@ -51,31 +51,6 @@ Contributing to open source projects and collaborating with developers across th
 
 ---
 
-## Selected Projects
-
-### Personal Portfolio Website
-Built a responsive portfolio website showcasing projects, skills, achievements, and experience.
-
-### Blog Website
-Developed a modern blogging platform featuring responsive design, dark mode, and interactive UI components.
-
-### Cybersecurity Club Website
-Collaborated on the development and maintenance of the club website using the MERN stack.
-
-### Expense Tracker
-Built a Python-based expense management application using Pandas and Matplotlib for data analysis and visualization.
-
----
-
-## Achievements
-
-- 2nd Runner-Up, IEEE PEC × Pranjana AI Hackathon 2024
-- Top 8 Finalist among 10,000 GDGC members
-- Top 100 Teams among 45,000+ participants at IIT Delhi Youth Ideathon 2024
-- Punjab State Rank 5 in Class XII Board Examinations (98.6%)
-
----
-
 ## GitHub Statistics
 
 <p align="center">
