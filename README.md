@@ -192,14 +192,6 @@
 
 ---
 
-## Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kaur-jass&theme=tokyo-night" />
-</p>
-
----
-
 
 ## Connect With Me
 
