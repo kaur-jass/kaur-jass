@@ -1,7 +1,7 @@
 # Hey, I'm Jaspreet Kaur
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Software+Engineering+Enthusiast;Exploring+Cybersecurity+%26+AI%2FML;Building+Projects+%26+Solving+Problems;Open+Source+Contributor" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Software+Engineering+Enthusiast;Exploring+AI%2FML;Building+Projects+%26+Solving+Problems;Open+Source+Contributor" />
 </p>
 
 <p align="center">
