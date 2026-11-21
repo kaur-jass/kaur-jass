@@ -57,7 +57,7 @@ I enjoy learning by building, experimenting, debugging, and contributing to coll
 **Areas of Interest**
 
 - Data Structures & Algorithms
-- Cybersecurity & Cryptography
+- Cryptography and Security
 - Machine Learning
 - Full Stack Development
 - Software Engineering
