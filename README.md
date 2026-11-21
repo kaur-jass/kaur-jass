@@ -26,7 +26,7 @@ I'm an Information Technology undergraduate at **NIT Jalandhar**, interested in 
 
 - Technical Head at the Cybersecurity Club.
 - Open-source contributor at **GirlScript Summer of Code 2026**.
-- Interested in Software Engineering, Cybersecurity, AI/ML, and problem-solving.
+- Interested in Software Engineering, AI/ML, and problem-solving.
 - Strengthening my Data Structures and Algorithms fundamentals.
 - Building projects that combine practical engineering with real-world problem-solving.
 
