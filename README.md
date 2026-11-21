@@ -66,14 +66,17 @@ I enjoy learning by building, experimenting, debugging, and contributing to coll
 
 ## Featured Projects
 
-A few projects from my development journey:
+A selection of projects I've worked on, exploring full-stack development, AI/ML, and practical software engineering.
 
 | Project | Description |
 |---|---|
-| **VidyAstra** | MERN-based web application |
-| **Sahayak** | AI-powered disaster response project |
-| **SpendSense** | Expense analysis and prediction using Machine Learning |
-| **AI Virtual Try-On** | Computer vision-based virtual try-on prototype |
+| **Sahayak** | AI-powered disaster response platform connecting people in need with volunteers and emergency assistance. |
+| **Logifleet** | Software project focused on fleet management and logistics operations. |
+| **SpendSense** | Machine Learning-based expense analysis and prediction system. |
+| **DevStalas** | Developer-focused project exploring software development and collaboration. |
+| **VidyAstra** | MERN-stack web application built using React, Node.js, Express, and MongoDB. |
+
+
 
 ---
 
